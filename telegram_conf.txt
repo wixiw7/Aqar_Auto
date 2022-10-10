@@ -1,0 +1,3 @@
+[telegram]
+token = {5485770571:AAFGQfg09ySCzKI2_suP2W2yYaSJAQjuc00}
+chat_id = {Goxper_bot}
